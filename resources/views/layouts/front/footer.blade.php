@@ -84,7 +84,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="copyright">
-                        <p><a target="_blank" href="https://www.templateshub.net">PCXPERT</a></p>
+                        <p><a target="_blank" href="https://discord.gg/geteje">PCXPERT</a></p>
                     </div>
                 </div>
                 <div class="col-md-6">
