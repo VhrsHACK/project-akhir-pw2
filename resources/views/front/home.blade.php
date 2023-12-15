@@ -1,39 +1,30 @@
 @extends('layouts.front.index')
 
 @section('content')
-<!-- Slider Start -->
+<!-- Slider awal -->
     <div class="slider-area">
         <div class="slider-active owl-dot-style owl-carousel">
             <div class="single-slider ptb-240 bg-img"
-                style="background-image:url(assets/img/shoes.jpg);">
+                style="background-image:url(assets/img/slider/banner1.jpg);">
                 <div class="container">
                     <div class="slider-content slider-animated-1">
-                        <h1 class="animated">Want to stay <span class="theme-color">healthy</span></h1>
-                        <h1 class="animated">drink matcha.</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit sedeiu tempor inci ut labore et
-                            dolore magna aliqua.</p>
+                        <h1 class="animated">Cari Komponen Terbaik Untuk <span class="theme-color">Komputermu</span></h1>
+                        <h1 class="animated">Hanya Di PCXPERT.</h1>
+                        <p>Tempat terbaik untuk mencari komponen pc dan merakit pc, serta tempat aksesoris ataupun barang-barang berkaitan dengan komputer lainnya</p>
                     </div>
                 </div>
             </div>
-            <div class="single-slider ptb-240 bg-img" style="background-image:url(assets/img/slider/slider-1-1.jpg);">
-                <div class="container">
-                    <div class="slider-content slider-animated-1">
-                        <h1 class="animated">Want to stay <span class="theme-color">healthy</span></h1>
-                        <h1 class="animated">drink matcha.</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetu adipisicing elit sedeiu tempor inci ut labore et
-                            dolore magna aliqua.</p>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
-    <!-- Slider End -->
-    <!-- Product Area Start -->
+    <!-- Slider akhir -->
+    <!-- Product Area mulai -->
     <div class="product-area bg-image-1 pt-100 pb-95">
         <div class="container">
             <div class="featured-product-active hot-flower owl-carousel product-nav">
                 <div class="product-wrapper">
                     <div class="product-img">
+                        <!-- Produk 1 -->
                         <a href="{{ route('produk-details') }}">
                             <img alt="" src="assets/img/product/product-1.jpg">
                         </a>
@@ -55,11 +46,11 @@
                         <div class="product-hover-style">
                             <div class="product-title">
                                 <h4>
-                                    <a href="{{ route('produk-details') }}">Nature Close Tea</a>
+                                    <a href="{{ route('produk-details') }}">Vga Geforce 3090 TI 8GB</a>
                                 </h4>
                             </div>
                             <div class="cart-hover">
-                                <h4><a href="{{ route('produk-details') }}">+ Add to cart</a></h4>
+                                <h4><a href="{{ route('produk-details') }}">+ Masukan Ke Keranjang</a></h4>
                             </div>
                         </div>
                         <div class="product-price-wrapper">
@@ -68,10 +59,11 @@
                         </div>
                     </div>
                 </div>
+                <!-- Produk 2 -->
                 <div class="product-wrapper">
                     <div class="product-img">
                         <a href="{{ route('produk-details') }}">
-                            <img alt="" src="assets/img/product/product-2.jpg">
+                            <img alt="" height="268" width="268" src="assets/img/product/product-2.jpg">
                         </a>
                         <div class="product-action">
                             <a class="action-wishlist" href="" title="Wishlist">
@@ -90,11 +82,11 @@
                         <div class="product-hover-style">
                             <div class="product-title">
                                 <h4>
-                                    <a href="product-details.html">Pink wave Cup</a>
+                                    <a href="product-details.html">Mobo Asrock H410 M.2</a>
                                 </h4>
                             </div>
                             <div class="cart-hover">
-                                <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                             </div>
                         </div>
                         <div class="product-price-wrapper">
@@ -103,6 +95,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- Produk 3 -->
                 <div class="product-wrapper">
                     <div class="product-img">
                         <a href="product-details.html">
@@ -126,11 +119,11 @@
                         <div class="product-hover-style">
                             <div class="product-title">
                                 <h4>
-                                    <a href="product-details.html">Tea and Chai</a>
+                                    <a href="product-details.html">Processor Intel I9-12900K</a>
                                 </h4>
                             </div>
                             <div class="cart-hover">
-                                <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                             </div>
                         </div>
                         <div class="product-price-wrapper">
@@ -139,6 +132,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- Produk 4 -->
                 <div class="product-wrapper">
                     <div class="product-img">
                         <a href="product-details.html">
@@ -161,13 +155,14 @@
                         <div class="product-hover-style">
                             <div class="product-title">
                                 <h4>
-                                    <a href="product-details.html">Pearly Everlasting</a>
+                                    <a href="product-details.html">SSD Colorful CN600 128GB M.2 NVMe</a>
                                 </h4>
                             </div>
                             <div class="cart-hover">
-                                <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                             </div>
                         </div>
+                        <!-- Produk 5 -->
                         <div class="product-price-wrapper">
                             <span>$100.00 -</span>
                             <span class="product-price-old">$120.00 </span>
@@ -197,11 +192,11 @@
                         <div class="product-hover-style">
                             <div class="product-title">
                                 <h4>
-                                    <a href="product-details.html">Que herbal Tea</a>
+                                    <a href="product-details.html">PSU ASUS ROG Thor 1200 Watt</a>
                                 </h4>
                             </div>
                             <div class="cart-hover">
-                                <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                             </div>
                         </div>
                         <div class="product-price-wrapper">
@@ -233,7 +228,7 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="single-banner img-zoom mb-30">
                             <a href="#">
-                                <img src="assets/img/banner/banner-2.png" alt="">
+                                <img src="assets/img/banner/banner-2.png" height="363" width="570" alt="">
                             </a>
                             <div class="banner-content">
                                 <h4>-20% Sale</h4>
@@ -281,11 +276,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">BeBe Bloom tea</a>
+                                                <a href="product-details.html">Vga Nvidia Geforce 3090 TI 8GB</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -297,7 +292,7 @@
                             <div class="product-wrapper mb-30">
                                 <div class="product-img">
                                     <a href="product-details.html">
-                                        <img alt="" src="assets/img/product/product-2.jpg">
+                                        <img alt="" height="268" width="268" src="assets/img/product/product-2.jpg">
                                     </a>
                                     <span>-50%</span>
                                     <div class="product-action">
@@ -317,11 +312,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Every spice Tea</a>
+                                                <a href="product-details.html">Mobo Asrock H410 M.2</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -355,11 +350,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Que herbal Tea</a>
+                                                <a href="product-details.html">Processor Intel Core I9-12900K M.2</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -371,7 +366,7 @@
                             <div class="product-wrapper mb-30">
                                 <div class="product-img">
                                     <a href="product-details.html">
-                                        <img alt="" src="assets/img/product/product-4.jpg">
+                                        <img alt="" height="268" width="268" src="assets/img/product/product-4.jpg">
                                     </a>
                                     <div class="product-action">
                                         <a class="action-wishlist" href="#" title="Wishlist">
@@ -390,11 +385,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Tea and Chai</a>
+                                                <a href="product-details.html">SSD Colorful CN600 128GB M.2 NVMe</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -427,11 +422,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Society Ice Tea</a>
+                                                <a href="product-details.html">PSU ASUS ROG Thor 1200 Watt</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -443,7 +438,7 @@
                             <div class="product-wrapper mb-30">
                                 <div class="product-img">
                                     <a href="product-details.html">
-                                        <img alt="" src="assets/img/product/product-6.jpg">
+                                        <img alt="" height="268" width="268" src="assets/img/product/product-6.jpg">
                                     </a>
                                     <span>-40%</span>
                                     <div class="product-action">
@@ -463,11 +458,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Green Tea Tulsi</a>
+                                                <a href="product-details.html">CPU Cooler DeepCool Castle 240EX RGB</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -501,11 +496,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Best Friends Tea</a>
+                                                <a href="product-details.html">Gaming Case Geoo Mid Tower PC 3 Sides</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -517,7 +512,7 @@
                             <div class="product-wrapper mb-30">
                                 <div class="product-img">
                                     <a href="product-details.html">
-                                        <img alt="" src="assets/img/product/product-8.jpg">
+                                        <img alt="" height="268" width="268" src="assets/img/product/product-8.jpg">
                                     </a>
                                     <div class="product-action">
                                         <a class="action-wishlist" href="#" title="Wishlist">
@@ -536,11 +531,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Instant Tea Premix</a>
+                                                <a href="product-details.html">RAM DDR4 32GB 3800HMz XPG ROG</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -574,11 +569,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Black Ossum Tea</a>
+                                                <a href="product-details.html">SSD Colorful CN600 128GB M.2 NVMe</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">
@@ -610,11 +605,11 @@
                                     <div class="product-hover-style">
                                         <div class="product-title">
                                             <h4>
-                                                <a href="product-details.html">Le Bongai Tea</a>
+                                                <a href="product-details.html">Vga Nvidia Geforce 3090 TI 8GB</a>
                                             </h4>
                                         </div>
                                         <div class="cart-hover">
-                                            <h4><a href="product-details.html">+ Add to cart</a></h4>
+                                            <h4><a href="product-details.html">+ Masukan Ke Keranjang</a></h4>
                                         </div>
                                     </div>
                                     <div class="product-price-wrapper">

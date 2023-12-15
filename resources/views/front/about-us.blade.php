@@ -48,7 +48,7 @@
                         <div class="testimonial-active owl-carousel">
                             <div class="single-testimonial text-center">
                                 <div class="testimonial-img">
-                                    <img alt="" src="assets/img/icon-img/testi.png">
+                                    <img alt="" src="assets/img/icon-img/testi.png" height="10" width="10">
                                 </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed do eiusmod tempor incididunt ut labore</p>
                                 <h4>Gregory Perkins</h4>
@@ -56,7 +56,7 @@
                             </div>
                             <div class="single-testimonial text-center">
                                 <div class="testimonial-img">
-                                    <img alt="" src="assets/img/icon-img/testi.png">
+                                    <img alt="" src="assets/img/icon-img/testi.png" height="10" width="10">
                                 </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed do eiusmod tempor incididunt ut labore</p>
                                 <h4>Khabuli Teop</h4>
@@ -64,7 +64,7 @@
                             </div>
                             <div class="single-testimonial text-center">
                                 <div class="testimonial-img">
-                                    <img alt="" src="assets/img/icon-img/testi.png">
+                                    <img alt="" src="assets/img/icon-img/testi.png" height="10" width="10">
                                 </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed do eiusmod tempor incididunt ut labore </p>
                                 <h4>Lotan Jopon</h4>

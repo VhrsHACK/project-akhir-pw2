@@ -6,7 +6,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="logo">
                         <a href="index.html">
-                            <img alt="" src="assets/img/logo/logo.png">
+                            <img alt="" height="50" src="assets/img/logo/logoatas.png">
                         </a>
                     </div>
                 </div>
@@ -25,30 +25,54 @@
                                         <ul class="mega-menu">
                                             <li>
                                                 <ul>
-                                                    <li class="mega-menu-title">Kategori 01</li>
-                                                    <li><a href="shop.html">Sepatu Pria</a></li>
-                                                    <li><a href="shop.html">Sepatu Wanita</a></li>
+                                                    <li class="mega-menu-title">Komponen</li>
+                                                    <li><a href="shop.html">MotherBoard</a></li>
+                                                    <li><a href="shop.html">RAM</a></li>
+                                                    <li><a href="shop.html">Hard Disk Drive</a></li>
+                                                    <li><a href="shop.html">Solid State Drive</a></li>
+                                                    <li><a href="shop.html">Graphics Card</a></li>
+                                                    <li><a href="shop.html">Power Supply Unit</a></li>
+                                                    <li><a href="shop.html">Cooling System</a></li>
+                                                    <li><a href="shop.html">Storage Expansion Cards</a></li>
                                                 </ul>
                                             </li>
                                             <li>
                                                 <ul>
-                                                    <li class="mega-menu-title">Kategori 02</li>
-                                                    <li><a href="shop.html">Olahraga& Outdoor</a></li>
-                                                    <li><a href="shop.html">Jam Tangan</a></li>
+                                                    <li class="mega-menu-title">Aksesoris</li>
+                                                    <li><a href="shop.html">Gaming Chairs</a></li>
+                                                    <li><a href="shop.html">Deskmate</a></li>
+                                                    <li><a href="shop.html">Webcam</a></li>
+                                                    <li><a href="shop.html">Mikrofon Eksternal</a></li>
+                                                    <li><a href="shop.html">Audio Accessories</a></li>
+                                                    <li><a href="shop.html">Monitor Accessories</a></li>
+                                                    <li><a href="shop.html">VR Headsets Accessories</a></li>
+                                                    <li><a href="shop.html">Gaming Controllers</a></li>
                                                 </ul>
                                             </li>
                                             <li>
                                                 <ul>
-                                                    <li class="mega-menu-title">Kategori 03</li>
-                                                    <li><a href="shop.html">Tas Pria</a></li>
-                                                    <li><a href="shop.html">Tas Wanita</a></li>
+                                                    <li class="mega-menu-title">Vidio Game</li>
+                                                    <li><a href="shop.html">GTA V ONLINE</a></li>
+                                                    <li><a href="shop.html">GOD OF WAR REMAKE</a></li>
+                                                    <li><a href="shop.html">BULLY</a></li>
+                                                    <li><a href="shop.html">NASCAR RUMBLE</a></li>
+                                                    <li><a href="shop.html">SMACKDOWN</a></li>
+                                                    <li><a href="shop.html">APEX LEGEND</a></li>
+                                                    <li><a href="shop.html">VALORANT</a></li>
+                                                    <li><a href="shop.html">VR TUBE</a></li>
                                                 </ul>
                                             </li>
                                             <li>
                                                 <ul>
-                                                    <li class="mega-menu-title">Kategori 04</li>
-                                                    <li><a href="shop.html">Pakaian Pria</a></li>
-                                                    <li><a href="shop.html">Aksesoris</a></li>
+                                                    <li class="mega-menu-title">Top-up</li>
+                                                    <li><a href="shop.html">GTA V ONLINE</a></li>
+                                                    <li><a href="shop.html">LOST SAGA</a></li>
+                                                    <li><a href="shop.html">POINT BLANK</a></li>
+                                                    <li><a href="shop.html">MOBILE LEGEND</a></li>
+                                                    <li><a href="shop.html">PUBG</a></li>
+                                                    <li><a href="shop.html">APEX LEGEND</a></li>
+                                                    <li><a href="shop.html">VALORANT</a></li>
+                                                    <li><a href="shop.html">DOTA</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -120,13 +144,13 @@
                                 <ul>
                                     <li class="single-shopping-cart">
                                         <div class="shopping-cart-img">
-                                            <a href="#"><img alt=""
+                                            <a href="#"><img alt="" height="82" width="82"
                                                     src="assets/img/cart/cart-1.jpg"></a>
                                         </div>
                                         <div class="shopping-cart-title">
-                                            <h4><a href="#">Phantom Remote </a></h4>
-                                            <h6>Qty: 02</h6>
-                                            <span>$260.00</span>
+                                            <h4><a href="#">Mobo Asrock H410-M M.2</a></h4>
+                                            <h6>Jumlah: 1</h6>
+                                            <span>$600.000</span>
                                         </div>
                                         <div class="shopping-cart-delete">
                                             <a href="#"><i class="ion ion-close"></i></a>
@@ -134,13 +158,13 @@
                                     </li>
                                     <li class="single-shopping-cart">
                                         <div class="shopping-cart-img">
-                                            <a href="#"><img alt=""
+                                            <a href="#"><img alt="" height="82" width="82"
                                                     src="assets/img/cart/cart-2.jpg"></a>
                                         </div>
                                         <div class="shopping-cart-title">
-                                            <h4><a href="#">Phantom Remote</a></h4>
-                                            <h6>Qty: 02</h6>
-                                            <span>$260.00</span>
+                                            <h4><a href="#">Vga Rtx 3060 TI 8GB</a></h4>
+                                            <h6>Jumlah: 1</h6>
+                                            <span>$5.000.000</span>
                                         </div>
                                         <div class="shopping-cart-delete">
                                             <a href="#"><i class="ion ion-close"></i></a>
@@ -148,8 +172,8 @@
                                     </li>
                                 </ul>
                                 <div class="shopping-cart-total">
-                                    <h4>Shipping : <span>$20.00</span></h4>
-                                    <h4>Total : <span class="shop-total">$260.00</span></h4>
+                                    <h4>Shipping : <span>$360.000</span></h4>
+                                    <h4>Total : <span class="shop-total">$5.960.000</span></h4>
                                 </div>
                                 <div class="shopping-cart-btn">
                                     <a href="cart-page.html">view cart</a>

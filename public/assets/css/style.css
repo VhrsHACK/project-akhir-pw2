@@ -1929,7 +1929,7 @@ textarea:focus {
   background-size: cover;
 }
 .slider-content h1 {
-  color: #000;
+  color: #ffffff;
   font-family: "Playfair Display",serif;
   font-size: 60px;
   font-weight: 400;
@@ -1941,7 +1941,7 @@ textarea:focus {
     margin: 0;
 }
 .slider-content > p {
-  color: #6d6a6a;
+  color: #ffffff;
   font-size: 17px;
   font-weight: 400;
   margin-top: 30px;
@@ -2072,13 +2072,13 @@ textarea:focus {
   color: #fff;
   font-family: 'Lora', serif;
   font-size: 38px;
-  color: #519f10;
+  color: #ff0000;
   font-weight: 400;
   margin: 0 0 10px;
   text-transform: capitalize;
 }
 .banner-content h5 {
-  color: #484848;
+  color: #ffffff;
   font-family: "Montserrat",sans-serif;
   font-size: 14px;
   font-weight: 600;
